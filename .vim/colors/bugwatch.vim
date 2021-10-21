@@ -8,7 +8,7 @@ if exists("syntax_on")
 endif
 
 set background=dark
-let g:colors_name="zeltron"
+let g:colors_name="bugwatch"
 
 set guicursor=n-v-c-i:block
 " sets cursor to a block in vim.
